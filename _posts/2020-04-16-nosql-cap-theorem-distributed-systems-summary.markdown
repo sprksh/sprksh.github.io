@@ -2,7 +2,7 @@
 layout: post
 title:  "Distributed Systems, NoSQL & CAP Theorem"
 date:   2020-04-18 00:25:35 +0530
-categories: nosql
+categories: distributed-systems
 ---
 
 http://horicky.blogspot.com/2009/11/nosql-patterns.html
