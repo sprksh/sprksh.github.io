@@ -566,8 +566,4 @@ Great talk: <https://www.youtube.com/watch?v=7lmCu8wz8ro>
 Covers metaclass, & contextmanagers among other things.
 
 Also, you should know about pep (python enhancement proposals) <https://www.python.org/dev/peps/>
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
