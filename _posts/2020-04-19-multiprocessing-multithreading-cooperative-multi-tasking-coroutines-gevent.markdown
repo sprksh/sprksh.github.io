@@ -2,7 +2,7 @@
 layout: post
 title:  "Multiprocessing, Multithreading, Cooperative Multi-Tasking, Coroutines & Gevent"
 date:   2020-04-19 00:25:35 +0530
-categories: notes
+categories: threads
 ---
 First Read about GIL. This one is the best article: <https://opensource.com/article/17/4/grok-gil>
 

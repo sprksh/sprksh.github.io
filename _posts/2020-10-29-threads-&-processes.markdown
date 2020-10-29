@@ -2,7 +2,7 @@
 layout: post
 title:  "Threads & Processes"
 date:   2020-10-29 00:25:35 +0530
-categories: threads, processe
+categories: threads process
 ---
 TODO: <https://slikts.github.io/concurrency-glossary/?id=system-threads-vs-user-level-threads-green-lightweight-threads>
 
